@@ -1,7 +1,7 @@
 # 国内如何使用 ChatGPT？最易懂的 ChatGPT 中文版介绍与镜像网站推荐
-> 发布时间：2025年2月29日
+> 发布时间：2025年5月29日
 > 
->更新时间: 2025-03-16
+>更新时间: 2025-05-29
 ## **什么是 ChatGPT 中文版？**
 
 ChatGPT 中文版 是由OpenAI开发的强大语言生成模型的中文版本，它能够理解并生成类似人类的中文文字对话。无论是写作、编程还是信息查询，ChatGPT 中文版 都能提供高效且智能的帮助。
@@ -40,11 +40,8 @@ ChatGPT 中文版 是由OpenAI开发的强大语言生成模型的中文版本�
 
 | 网站 | 功能 | 链接 |
 | --- | --- | --- |
-| 一下AI | 支持GPT4.0、GPT o1、AI绘画 | [访问一下AI](https://www.yixiaai.com) |
-| Chat Lify | 支持GPT4.0、GPT4.0 turbo、GPT o1、AI PPT、插件 | [访问Chat Lify](https://chat.lify.vip) |
-| AI智慧岛 | 电脑客户端 | [下载AI智慧岛客户端](https://chatknow.lify.vip/software/AI%E6%99%BA%E6%85%A7%E5%B2%9B_1.0.0_x64_zh-CN.msi) |
-| ChatGPT 中文版 (Edge插件) | Edge浏览器插件 | [下载Edge插件](https://microsoftedge.microsoft.com/addons/detail/chatgpt%E4%B8%AD%E6%96%87%E7%89%88%EF%BC%88%E4%B8%AD%E6%96%87%E7%95%8C%E9%9D%A2%E3%80%81%E5%AF%B9%E8%AF%9D%E3%80%81%E5%86%99%E4%BD%9C%E3%80%81%E7%BB%98%E7%94%BB/lmlenkgcieicbnpobkhmpcgmamahahil) |
-| ChatGPT 中文版 (Chrome插件) | Chrome浏览器插件 | [下载Chrome插件](https://chromewebstore.google.com/detail/chatgpt%E4%B8%AD%E6%96%87%E7%89%88%EF%BC%88ai-%E6%99%BA%E6%85%A7%E5%B2%9B%EF%BC%89/jffjfhngfgcglmjjpakgekefpegmhkll?hl=zh-CN&utm_source=ext_sidebar) |
+| 一下AI | 支持GPT4.0、GPT o1、AI绘画 | [访问一下AI](https://xsimplechat.com) |
+| Lanjing Chat | 支持GPT4.0、GPT4.0 turbo、GPT o1、AI PPT、插件 | [访问lanjing.pro](https://chat.lanjing.pro) |
 | 蓝鲸AI指南 | 支持GPT全系列模型 | [访问蓝鲸AI指南](https://guide1.lanjing.ai) |
 
 ---
