@@ -1,5 +1,5 @@
 # 国内如何使用 ChatGPT？最易懂的 ChatGPT 中文版介绍与镜像网站推荐
-> 发布时间：2025年8月4日
+> 发布时间：2025年9月19日
 > 
 ## **什么是 ChatGPT 中文版？**
 
@@ -39,8 +39,8 @@ ChatGPT 中文版 是由OpenAI开发的强大语言生成模型的中文版本�
 
 | 网站 | 功能 | 链接 |
 | --- | --- | --- |
-| 一下AI | 支持GPT4.0、GPT o1、AI绘画等模型 | [访问一下AI](https://xsimplechat.com) |
-| Lanjing Chat | 支持GPT4.0、GPT4.0 turbo、GPT o1、AI PPT、插件 | [访问chat.lanjingai.org](https://chat.lanjingai.org) |
+| 一下AI | 支持GPT5、GPT o1、AI绘画等模型 | [访问一下AI](https://xsimplechat.com) |
+| Lanjing Chat | 支持GPT5、GPT4.0 turbo、GPT o1、AI PPT、插件 | [访问ai.lanjingai.org](https://ai.lanjingai.org) |
 | 蓝鲸AI指南 | 支持GPT全系列模型 | [访问蓝鲸AI指南](https://guide1.lanjing.ai) |
 
 ---
